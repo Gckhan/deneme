@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.485,=C:\Users\ultim\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,C:\Users\ultim\OneDrive\Masaüstü\delphi\datamodul.pas=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit1.pas=C:\Users\ultim\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,C:\Users\ultim\OneDrive\Masaüstü\delphi\Project1.dproj=C:\Users\ultim\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.457,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit1.dfm=C:\Users\ultim\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,C:\Users\ultim\OneDrive\Masaüstü\delphi\datamodul.dfm=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.208,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,=C:\Users\ultim\OneDrive\Masaüstü\delphi\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
